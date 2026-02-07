@@ -63,6 +63,10 @@ Wait a few minutes and refresh the page. GitHub will generate a **link** that ta
 ![Step 5](media/5.gif)
 
 ---
+## Key Takeaways 🌸
+wait lngg
+
+---
 
 ## 😍🥰 Want to Explore My References? 😎
 
