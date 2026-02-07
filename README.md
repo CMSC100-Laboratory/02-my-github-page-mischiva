@@ -1,9 +1,10 @@
 # Exercise 2: My GitHub Portfolio 🫦🤟
 
 ## 🕵️‍♂️ About Me 🕵️‍♂️
-*Name:* Allane Lee Castro  
-*Degree Program:* BS Computer Science  
-*Live website link:* [Click here](https://cmsc100-laboratory.github.io/02-my-github-page-mischiva/)
+
+Hi! I'm **Allane Lee Castro**, a sophomore **BS Computer Science** student at UPLB with a strong interest in **cybersecurity and networking**. I enjoy exploring systems, solving security challenges, and building cool projects along the way.  
+
+**Check out my live website:** [Click here](https://cmsc100-laboratory.github.io/02-my-github-page-mischiva/)
 
 ## Steps on How to Create a GitHub Page 🤓👆
 
@@ -23,9 +24,6 @@ Clone it to your local machine using:
 
 ### Step 2: Create Your `index.html`
 Create an `index.html` file in your repository with the content you want to display on your GitHub Page.  
-
-> [!TIP]
-> You can start with a simple "Hello World" HTML page if you’re new to HTML.
 
 ![Step 2](media/2.gif)
 
@@ -52,9 +50,6 @@ After creating your `index.html`, push your changes to GitHub using:
 3. Navigate to **Pages** on the left menu.  
 4. Under **Build and deployment**, select the branch you want to publish (usually `main`) and click **Save**.  
 
-> [!WARNING]
-> GitHub Pages only works on public repositories for free accounts. Ensure your repository is public to avoid deployment issues.
-
 ![Step 4](media/4.gif)
 
 ---
@@ -69,5 +64,8 @@ Wait a few minutes and refresh the page. GitHub will generate a **link** that ta
 
 ---
 
-## 😍🥰 Want to Explore My References? 😜😇
+## 😍🥰 Want to Explore My References? 😎
+
+Check out my references if you want… or don’t.
+
 [Visit this link](https://docs.google.com/document/d/1ytpPDMQ0X5AU3UxrWZh09sIM5quMHXahTicZmlEVrKc/edit?usp=sharing)
