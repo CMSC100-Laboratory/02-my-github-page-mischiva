@@ -1,11 +1,11 @@
-# Exercise 2: My GitHub Portfolio  
+# Exercise 2: My GitHub Portfolio 🫦🤟
 
-## About Me 
+## 🕵️‍♂️ About Me 🕵️‍♂️
 *Name:* Allane Lee Castro  
 *Degree Program:* BS Computer Science  
 *Live website link:* [Click here](https://cmsc100-laboratory.github.io/02-my-github-page-mischiva/)
 
-## Steps on How to Create a GitHub Page
+## Steps on How to Create a GitHub Page 🤓👆
 
 ### Step 1: Create a Repository
 Create a **new repository** on GitHub. Make sure it is **public**, as free GitHub accounts only allow GitHub Pages to run on public repositories.  
@@ -69,5 +69,5 @@ Wait a few minutes and refresh the page. GitHub will generate a **link** that ta
 
 ---
 
-## Want to Explore My References?
+## 😍🥰 Want to Explore My References? 😜😇
 [Visit this link](https://docs.google.com/document/d/1ytpPDMQ0X5AU3UxrWZh09sIM5quMHXahTicZmlEVrKc/edit?usp=sharing)
