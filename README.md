@@ -9,6 +9,31 @@
 
 ## Steps on how to create a Github page
 
+### Step 1
+<video width="640" height="360" controls>
+  <source src="media/1.mp4" type="video/mp4">
+</video>
+
+### Step 2
+<video width="640" height="360" controls>
+  <source src="media/2.mp4" type="video/mp4">
+</video>
+
+### Step 3
+<video width="640" height="360" controls>
+  <source src="media/3.mp4" type="video/mp4">
+</video>
+
+### Step 4
+<video width="640" height="360" controls>
+  <source src="media/4.mp4" type="video/mp4">
+</video>
+
+### Step 5
+<video width="640" height="360" controls>
+  <source src="media/5.mp4" type="video/mp4">
+</video>
+
 ## Key Takeaways
 
 
