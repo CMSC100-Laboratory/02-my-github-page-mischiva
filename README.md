@@ -68,4 +68,6 @@ Wait a few minutes and refresh the page. GitHub will generate a **link** that ta
 
 Check out my references if you want… or don’t.
 
-[Visit this link](https://docs.google.com/document/d/1ytpPDMQ0X5AU3UxrWZh09sIM5quMHXahTicZmlEVrKc/edit?usp=sharing)
+[Visit this link](https://docs.google.com/document/d/1ytpPDMQ0X5AU3UxrWZh09sIM5quMHXahTicZmlEVrKc/edit?usp=sharing)  
+
+This is definitely not a suspicious link that will take you to some shady gambling scam site! 🤭
