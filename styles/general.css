@@ -10,12 +10,69 @@ body, html {
 
 #left-box {
     background-color: #505c4c;
+    background-image: url('../media/bg_photos/smoke.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     width: 900px;
     height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 24px;
 }
 
 #right-box {
     background-color: #d0cb9e;
+    background-image: url('../media/bg_photos/fire.png'), url('../media/bg_photos/dirt.png');
+    background-repeat: no-repeat, no-repeat;
+    background-position: center bottom, center top;
+    background-size: contain, contain;
     width: 100vw;
     height: 100vh;
+}
+
+#profile-image {
+    padding-top: 80px;
+    width: 45%;               
+    height: auto;             
+}
+
+#content-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    width: 70%;
+}
+
+#content-one {
+    background-color: #d0cb9e;
+    width: 115%;
+    height: 65px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#content-two {
+    background-color: #929665;
+    width: 115%;
+    height: 65px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#content-three {
+    background-color: #9cafa1;
+    width: 115%;
+    height: 65px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
