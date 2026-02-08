@@ -55,8 +55,18 @@ body, html {
     margin-bottom: 0;
 }
 
-.project-odd,
-.project-even {
+#about-box,
+#skills-box,
+#project-one {
+    scroll-margin-top: 80px;
+}
+
+/* General Project Styles */
+#project-one,
+#project-two,
+#project-three,
+#project-four,
+#project-five {
     background-color:#9cafa1;
     width: 85%;
     height: 250px;
@@ -65,9 +75,20 @@ body, html {
     margin-right: auto;
     margin-bottom: 0;
     position: relative;
+    border-radius: 20px;
 }
 
-.project-odd::before {
+.project-content {
+    position: relative;
+    z-index: 20;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Project One - RudeBlox*/
+#project-one::before {
     content: '';
     position: absolute;
     left: -15px;
@@ -79,7 +100,24 @@ body, html {
     z-index: 10;
 }
 
-.project-even::before {
+#project-one .project-content {
+    padding-left: 270px;
+    padding-right: 80px;
+}
+
+#project-one img {
+    position: absolute;
+    left: -15px;
+    top: 0;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    object-fit: cover;
+    z-index: 15;
+}
+
+/* Project Two - Bandit Writeups*/
+#project-two::before {
     content: '';
     position: absolute;
     right: -15px;
@@ -89,6 +127,129 @@ body, html {
     background-color: #929665;
     border-radius: 20px;
     z-index: 10;
+}
+
+#project-two .project-content {
+    padding-left: 80px;
+    padding-right: 270px;
+}
+
+#project-two img {
+    position: absolute;
+    right: -15px;
+    top: 0;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    object-fit: cover;
+    z-index: 15;
+}
+
+/* Project Three - Smart Vendi*/
+#project-three::before {
+    content: '';
+    position: absolute;
+    left: -15px;
+    top: 0;
+    width: 250px;
+    height: 250px;
+    background-color: #929665;
+    border-radius: 20px;
+    z-index: 10;
+}
+
+#project-three .project-content {
+    padding-left: 270px;
+    padding-right: 80px;
+}
+
+#project-three img {
+    position: absolute;
+    left: -15px;
+    top: 0;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    object-fit: cover;
+    z-index: 15;
+}
+
+/* Project Four - iReady*/
+#project-four::before {
+    content: '';
+    position: absolute;
+    right: -15px;
+    top: 0;
+    width: 250px;
+    height: 250px;
+    background-color: #929665;
+    border-radius: 20px;
+    z-index: 10;
+}
+
+#project-four .project-content {
+    padding-left: 70px;
+    padding-right: 270px;
+}
+
+#project-four img {
+    position: absolute;
+    right: -15px;
+    top: 0;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    object-fit: cover;
+    z-index: 15;
+}
+
+/* Project Five - SemSync*/
+#project-five::before {
+    content: '';
+    position: absolute;
+    left: -15px;
+    top: 0;
+    width: 250px;
+    height: 250px;
+    background-color: #929665;
+    border-radius: 20px;
+    z-index: 10;
+}
+
+#project-five .project-content {
+    padding-left: 270px;
+    padding-right: 30px;
+}
+
+#project-five img {
+    position: absolute;
+    left: -15px;
+    top: 0;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    object-fit: cover;
+    z-index: 15;
+}
+
+.project-heading {
+    font-family: "IM Fell English", serif;
+    font-size: 30px;
+    color: #153333;
+    margin: 0px 0 10px 0;
+    font-weight: normal;
+    text-align: left;
+    letter-spacing: 1px;
+}
+
+.project-description {
+    font-family: "Asap", sans-serif;
+    font-size: 16px;
+    color: #153333;
+    line-height: 1.5;
+    margin: 0;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .right-shadow {
