@@ -1,0 +1,21 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#background-container {
+    display: flex;
+}
+
+#left-box {
+    background-color: #505c4c;
+    width: 900px;
+    height: 100vh;
+}
+
+#right-box {
+    background-color: #d0cb9e;
+    width: 100vw;
+    height: 100vh;
+}
