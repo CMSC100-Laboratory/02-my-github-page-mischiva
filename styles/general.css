@@ -33,7 +33,7 @@ body, html {
 
 #about-box {
     background-color: #929665;
-    width: 80%;
+    width: 85%;
     height: 250px;
     border-radius: 20px;
     margin-top: 100px;
@@ -44,7 +44,7 @@ body, html {
 
 #skills-box {
     background-color: #929665;
-    width: 80%;
+    width: 85%;
     height: 200px;
     border-radius: 20px;
     margin-top: 0;
@@ -56,7 +56,7 @@ body, html {
 .project-odd,
 .project-even {
     background-color:#9cafa1;
-    width: 80%;
+    width: 85%;
     height: 250px;
     margin-top: 0;
     margin-left: auto;
@@ -108,4 +108,20 @@ body, html {
     z-index: 911;
     margin: 0;
     padding: 0;
+    pointer-events: none;
+}
+
+.right-chain, .left-chain {
+    position: absolute;
+    width:30%;
+}
+
+.right-chain {
+    z-index: 910;
+    transform: translateX(254%) translateY(-50%);
+}
+
+.left-chain {
+    z-index: 911;
+    transform: translateX(-20%) translateY(-50%);
 }
