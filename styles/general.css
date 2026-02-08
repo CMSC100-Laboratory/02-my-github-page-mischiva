@@ -1,3 +1,11 @@
+*, body, html {
+    cursor: url('../media/mouse/pointer.png') 0 0, auto;
+}
+
+a, button, .link-image, a:hover, button:hover {
+    cursor: url('../media/mouse/click.png') 0 0, pointer;
+}
+
 body, html {
     height: 100%;
     margin: 0;
