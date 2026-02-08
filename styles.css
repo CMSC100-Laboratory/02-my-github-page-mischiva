@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Neirizi';
+    src: url('fonts/neirizi-regular/Neirizi Regular.ttf') format('truetype');
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#background-container {
+    display: flex;
+}
+
+#left-box {
+    background-color: #505c4c;
+    width: 900px;
+    height: 100vh;
+}
+
+#right-box {
+    background-color: #d0cb9e;
+    width: 100vw;
+    height: 100vh;
+}
+
+#navigation-bar {
+    background-color: #153333;
+}
+
+#navigation-items {
+    margin: 0;
+    padding: 0;
+    list-style: none;       
+    display: flex;        
+    justify-content: space-around;
+    height: 60px;
+    font-family: 'Neirizi';
+    font-size: 40px;
+}
+
+#navigation-items a {
+    text-decoration: none;   
+    color: #d0cb9e;
+    display: block;
+    margin-top: -10px;
+}
+
+#navigation-items a:hover { 
+    color: #929665;          
+}

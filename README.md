@@ -18,14 +18,14 @@ Clone it to your local machine using:
 > [!NOTE]
 > Make sure you are logged in on your machine before cloning. Otherwise, the command may fail.
 
-![Step 1](media/1.gif)
+![Step 1](media/gifs/1.gif)
 
 ---
 
 ### Step 2: Create Your `index.html`
 Create an `index.html` file in your repository with the content you want to display on your GitHub Page.  
 
-![Step 2](media/2.gif)
+![Step 2](media/gifs/2.gif)
 
 ---
 
@@ -40,7 +40,7 @@ After creating your `index.html`, push your changes to GitHub using:
 > [!IMPORTANT]
 > Replace `main` with your branch name if your default branch is different.
 
-![Step 3](media/3.gif)
+![Step 3](media/gifs/3.gif)
 
 ---
 
@@ -50,7 +50,7 @@ After creating your `index.html`, push your changes to GitHub using:
 3. Navigate to **Pages** on the left menu.  
 4. Under **Build and deployment**, select the branch you want to publish (usually `main`) and click **Save**.  
 
-![Step 4](media/4.gif)
+![Step 4](media/gifs/4.gif)
 
 ---
 
@@ -60,7 +60,7 @@ Wait a few minutes and refresh the page. GitHub will generate a **link** that ta
 > [!CAUTION]
 > It can take a few minutes for the page to appear. Do not refresh repeatedly to avoid confusing delays.
 
-![Step 5](media/5.gif)
+![Step 5](media/gifs/5.gif)
 
 ---
 ## Key Takeaways 🌸
