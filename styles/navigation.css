@@ -1,7 +1,7 @@
 /*Import downloaded font*/
 @font-face {
     font-family: 'Neirizi';
-    src: url('fonts/neirizi-regular/Neirizi Regular.ttf') format('truetype');
+    src: url('../fonts/neirizi-regular/Neirizi Regular.ttf') format('truetype');
 }
 
 /* top nav bar */
