@@ -64,7 +64,9 @@ Wait a few minutes and refresh the page. GitHub will generate a **link** that ta
 
 ---
 ## Key Takeaways 🌸
-wait lngg
+In this exercise, I revisited my skills in HTML and CSS. It felt very personal, so I let my ideas run freely, went crazy, and used this as a way to express myself. While working on the CSS, I learned a lot about Flexbox, especially by applying concepts I practiced in Flexbox Froggy.
+
+I remember how I used to rely on ChatGPT just to center a div, but now I can do it on my own, which felt genuinely rewarding. This exercise is the most memorable ones so far in my Computer Science journey, even since first year. (no cap) 💯💯💯  
 
 ---
 

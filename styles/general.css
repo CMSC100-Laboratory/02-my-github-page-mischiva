@@ -1,5 +1,7 @@
+/* Font imports */
 @import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&family=IM+Fell+English:ital@0;1&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+/* My custom cursor */
 *, body, html {
     cursor: url('../media/mouse/pointer.png') 0 0, auto;
 }
@@ -19,6 +21,7 @@ body, html {
     display: flex;
 }
 
+/* Right content panel */
 #right-box {
     background-color: #d0cb9e;
     background-image: url('../media/bg_photos/dirt.png');
@@ -33,6 +36,7 @@ body, html {
     overflow-x: hidden;
 }
 
+/* About section */
 #about-box {
     background-color: #929665;
     width: 85%;
@@ -44,6 +48,7 @@ body, html {
     margin-bottom: 0;
 }
 
+/* Skills section */
 #skills-box {
     background-color: #929665;
     width: 85%;
@@ -55,13 +60,14 @@ body, html {
     margin-bottom: 0;
 }
 
+/* For the clicking effects sa navbar offset  */
 #about-box,
 #skills-box,
 #project-one {
     scroll-margin-top: 80px;
 }
 
-/* General Project Styles */
+/* project styles */
 #project-one,
 #project-two,
 #project-three,
@@ -87,7 +93,7 @@ body, html {
     justify-content: center;
 }
 
-/* Project One - RudeBlox*/
+/* Project One - RudeBlox */
 #project-one::before {
     content: '';
     position: absolute;
@@ -116,7 +122,7 @@ body, html {
     z-index: 15;
 }
 
-/* Project Two - Bandit Writeups*/
+/* Project Two - Bandit Writeups */
 #project-two::before {
     content: '';
     position: absolute;
@@ -145,7 +151,7 @@ body, html {
     z-index: 15;
 }
 
-/* Project Three - Smart Vendi*/
+/* Project Three - Smart Vendi */
 #project-three::before {
     content: '';
     position: absolute;
@@ -174,7 +180,7 @@ body, html {
     z-index: 15;
 }
 
-/* Project Four - iReady*/
+/* Project Four - iReady */
 #project-four::before {
     content: '';
     position: absolute;
@@ -203,7 +209,7 @@ body, html {
     z-index: 15;
 }
 
-/* Project Five - SemSync*/
+/* Project Five - SemSync */
 #project-five::before {
     content: '';
     position: absolute;
@@ -232,6 +238,7 @@ body, html {
     z-index: 15;
 }
 
+/* Project title */
 .project-heading {
     font-family: "IM Fell English", serif;
     font-size: 30px;
@@ -242,6 +249,7 @@ body, html {
     letter-spacing: 1px;
 }
 
+/* Project body */
 .project-description {
     font-family: "Asap", sans-serif;
     font-size: 16px;
@@ -252,6 +260,7 @@ body, html {
     text-justify: inter-word;
 }
 
+/* Same shadodow like in profile */
 .right-shadow {
     width:80%;
     height: auto;
@@ -261,6 +270,7 @@ body, html {
     position: relative;
 }
 
+/* fire */
 #fire-image {
     position: fixed;
     bottom: -50px;
@@ -274,6 +284,7 @@ body, html {
     pointer-events: none;
 }
 
+/* Chain */
 .right-chain, .left-chain {
     position: absolute;
     width:30%;
