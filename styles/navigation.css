@@ -19,7 +19,7 @@
     display: flex;        
     justify-content: space-around;
     height: 60px;
-    font-family: 'Neirizi';
+    font-family: 'Neirizi', sans-serif;
     font-size: 40px;
 }
 
