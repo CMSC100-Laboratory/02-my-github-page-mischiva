@@ -146,3 +146,57 @@
 #facebook-button:hover {
     background-image: url('../media/main/icons/fb_hover.png');
 }
+
+.about-heading {
+    font-family: "IM Fell English", serif;
+    font-size: 50px;
+    color: #153333;
+    padding-top: 10px;
+    margin: 0 0 12px 30px;
+    font-weight: normal;
+    text-align: left;
+    letter-spacing: 1px;
+}
+
+.about-body {
+    font-family: "Asap", sans-serif;
+    font-size: 16px;
+    color: #153333;
+    line-height: 1.5;
+    padding: 0 80px 15px 30px;
+    margin: 0;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.skills-heading {
+    font-family: "IM Fell English", serif;
+    font-size: 50px;
+    color: #153333;
+    padding-top: 10px;
+    margin: 0 0 8px 30px;
+    font-weight: normal;
+    text-align: left;
+    letter-spacing: 1px;
+}
+
+.skills-description {
+    font-family: "Asap", sans-serif;
+    font-size: 16px;
+    color: #153333;
+    line-height: 1.4;
+    padding: 0 80px 15px 30px;
+    margin: -10px 0 15px 0;
+    text-align: left;
+}
+
+.skills-list {
+    font-family: "Asap", sans-serif;
+    font-size: 16px;
+    color: #153333;
+    column-count: 2;
+    column-gap: 40px;
+    margin-left: 100px;
+    margin-top: -30px;
+    list-style-type: disc;
+}
