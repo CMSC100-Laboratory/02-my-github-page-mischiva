@@ -1,0 +1,38 @@
+/*Import downloaded font*/
+@font-face {
+    font-family: 'Neirizi';
+    src: url('../fonts/neirizi-regular/Neirizi Regular.ttf') format('truetype');
+}
+
+/* top nav bar */
+#navigation-bar {
+    background-color: #153333;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+}
+
+/* Nav list items */
+#navigation-items {
+    margin: 0;
+    padding: 0;
+    list-style: none;       
+    display: flex;        
+    justify-content: space-around;
+    height: 60px;
+    font-family: 'Neirizi', sans-serif;
+    font-size: 40px;
+}
+
+#navigation-items a {
+    text-decoration: none;   
+    color: #d0cb9e;
+    display: block;
+    margin-top: -10px;
+}
+
+#navigation-items a:hover { 
+    color: #929665;          
+}
